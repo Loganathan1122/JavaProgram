@@ -9,7 +9,7 @@ public class Sample4 {
 		System.out.print("Enter a number: ");
 		double number = sc.nextDouble();
 		if (number > 0) {
-		System.out.println("The number is positve.");
+		System.out.println("this is loganathan files .");
 		}
 		else if (number < 0) {
 		System.out.println("The number is negative.");
