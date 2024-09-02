@@ -12,10 +12,10 @@ public class Sample4 {
 		System.out.println("this is loganathan files .");
 		}
 		else if (number < 0) {
-		System.out.println("The number is negative.");
+		System.out.println("The number also postive.");
 		}
 		else {
-		System.out.println("The number is zero.");
+		System.out.println("The number is not zero.");
 		}
 		
 		}
